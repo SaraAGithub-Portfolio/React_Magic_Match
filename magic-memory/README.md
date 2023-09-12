@@ -1,4 +1,4 @@
-# Match Magic Game
+# Magic Match Game
 
 This project was created with React. Two users can play. Click on "New Game" to start a fresh game. If you click on a card that isn't its duplicate, the card will flip over again, your turn will be noted, and then the next player plays. Whoever gains the most matches wins. 
 
